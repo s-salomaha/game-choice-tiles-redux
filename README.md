@@ -7,4 +7,4 @@ The gameplay is the sequence of rounds. In each round the user should select 2 t
 
 Application developed using ReactJS + redux .
 
-[Link App](https://github.com/s-salomaha/game-choice-tiles-redux)
+[Link codesandbox](https://codesandbox.io/s/game-choice-tiles-redux-qo0q9)
